@@ -1,14 +1,6 @@
 /*
  * Dev_Inf.c
  *
- *  Created on: Apr 9, 2025
- *      Author: lemonx
- */
-
-
-/*
- * Dev_Inf.c
- *
  */
  #include "Dev_Inf.h"
  #include "quadspi.h"

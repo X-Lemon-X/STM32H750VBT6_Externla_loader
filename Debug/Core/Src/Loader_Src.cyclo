@@ -1,0 +1,6 @@
+../Core/Src/Loader_Src.c:17:5:Init	3
+../Core/Src/Loader_Src.c:74:5:Write	3
+../Core/Src/Loader_Src.c:100:5:SectorErase	3
+../Core/Src/Loader_Src.c:129:5:MassErase	3
+../Core/Src/Loader_Src.c:159:10:CheckSum	14
+../Core/Src/Loader_Src.c:232:10:Verify	4
